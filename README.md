@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Strengthening C++ DSA fundamentals for competitive programming and quant roles  .<br>I’m looking to collaborate on Beginner C++ open-source projects in algorithms or finance .<br>Hackathon-style problem-solving projects .<br>I’m looking for help withBreaking into quant finance/HFT from non-IIT background .<br>GSoC mentorship: org selection, proposals, first PRs .<br>I’m currently learning STL, OOP, DSA .<br>Ask me about Self-studying programming/finance  without coaching .<br>Fun fact Aiming for Jane Street/Citadel internships straight from 11th grade .
+I’m currently working on Strengthening C++ DSA fundamentals for competitive programming and quant roles. <br>I’m currently learning STL, OOP, DSA .<br>Ask me about Self-studying programming.
 
 
 ## 🌐 Socials:
